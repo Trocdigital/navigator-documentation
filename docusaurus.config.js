@@ -11,14 +11,14 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://MobileInsight.github.io/',
+  url: 'https://mobileinsight.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: 'navigator-documentation',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'MobileInsight', // Usually your GitHub org/user name.
+  organizationName: 'mobileinsight', // Usually your GitHub org/user name.
   projectName: 'navigator-documentation', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
