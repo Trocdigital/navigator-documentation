@@ -1,0 +1,8 @@
+{
+  "label": "Tutorials Navigator",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Manuals for Navigator V2"
+  }
+}
