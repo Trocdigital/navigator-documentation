@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknavigator_documentation=self.webpackChunknavigator_documentation||[]).push([[903],{9987:o=>{o.exports=JSON.parse('{"permalink":"/navigator-documentation/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
