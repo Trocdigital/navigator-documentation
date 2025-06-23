@@ -6,5 +6,5 @@ metadata:
     github.com/project-slug: Trocdigital/navigator-documentation
 spec:
   type: other
-  lifecycle: unknown
+  lifecycle: dev
   owner: navigator
