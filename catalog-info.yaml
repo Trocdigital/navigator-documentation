@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: navigator-documentation
+  annotations:
+    github.com/project-slug: Trocdigital/navigator-documentation
+spec:
+  type: other
+  lifecycle: unknown
+  owner: navigator
